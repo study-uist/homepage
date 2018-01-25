@@ -23,6 +23,8 @@ comments: true
 source: source
 destination: _site
 
+google_analytics: UA-113054721-1
+
 # Sass configuration
 sass:
   sass_dir: assets/scss
