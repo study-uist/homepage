@@ -12,6 +12,10 @@ body {
   height: 100%;
 }
 
+strong {
+  font-weight: 700;
+}
+
 .clearfix {
   &:before {
     content: " ";

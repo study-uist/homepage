@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+ユーザインタフェース分野における著名な学会であるThe ACM Symposium on User Interface Software and Technology (UIST)は、人間・コンピュータ・実世界におけるインタラクション手法と技術に関する厳選された研究発表の場として高い評価を得ています。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+本勉強会では、様々な分野に属する論文を分担して発表することにより、発表された論文全体の概形を効率的に捉え、研究分野の動向を追うこと目的とします。 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+勉強会の運営はボランティアで行われております。運営に興味のある方は[こちら](akira.matsuda.ut@gmail.com)までご連絡ください。

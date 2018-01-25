@@ -19,19 +19,23 @@ h6 {
   font-size: $base-font-size;
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
-  font-weight: 300;
+  font-weight: 500;
+  color: $primary-color;
 }
 
 h1 {
   font-size: rem(30);
+  font-weight: 600;
 }
 
 h2 {
   font-size: rem(26);
+  font-weight: 500;
 }
 
 h3 {
   font-size: rem(24);
+  font-weight: 500;
 }
 
 h4 {
